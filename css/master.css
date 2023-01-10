@@ -20,7 +20,6 @@ body {
   min-height: 100vh;
   margin: 0;
   
-  background-color: #3a3a3a;
 }
 
 /* ---------------------------------------------------------- *\
@@ -532,4 +531,8 @@ a:hover {
   ._team-fix-margin-top {
     margin-top: -15px;
   }
+}
+
+body {
+  background-color: #3a3a3a;
 }
