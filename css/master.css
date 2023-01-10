@@ -26,7 +26,7 @@ body {
 \* ---------------------------------------------------------- */
 
 html {
-  color: #F8EEEE;
+  color: #fff9eb;
 
   font: 62.5%/1.6 "Trebuchet MS", Arial, Helvetica, sans-serif;
 }
@@ -43,12 +43,12 @@ h2 {
 
 ::-moz-selection {
   color: white;
-  background: #3398ff;
+  background: #bdbdbd;
 }
 
 ::selection {
   color: white;
-  background: #3398ff;
+  background: #bdbdbd;
 }
 
 /* ---------------------------------------------------------- *\
@@ -172,13 +172,13 @@ body {
 
 a,
 a:visited {
-  color: #0077dd;
+  color: #d9d9d9;
 
   text-decoration: none;
 }
 
 a:hover {
-  color: #005599;
+  color: #ededed;
 
   text-decoration: underline;
 }
