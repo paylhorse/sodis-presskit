@@ -364,6 +364,10 @@ a:hover {
 
 .gallery__item img {
   width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
 }
 
 .gallery__item a[href$=".gif"] {
