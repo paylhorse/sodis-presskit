@@ -370,6 +370,10 @@ a:hover {
   width: 150px;
 }
 
+.gallery__item img:hover {
+  box-shadow: 0 0 2px 1px rgba(228, 223, 210, 0.5);
+}
+
 .gallery__item a[href$=".gif"] {
   position: relative;
 
