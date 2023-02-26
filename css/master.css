@@ -420,11 +420,15 @@ a:hover {
 
 @media (min-width: 800px) {
   .logo {
-    max-width: 49%;
+    width: 100%;
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
     width: 150px;
+  }
+  
+  .logo:hover {
+    box-shadow: 0 0 2px 1px rgba(228, 223, 210, 0.5);
   }
 }
 
